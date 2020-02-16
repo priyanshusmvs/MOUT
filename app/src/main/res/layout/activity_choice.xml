@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/blue"
+    tools:context=".Choice">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="40dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="Do you want to have the upcoming meal?"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="60dp"
+            android:textStyle="bold" />
+
+        <RadioGroup
+            android:id="@+id/radioGenderGroup"
+            android:layout_width="152dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_login">
+
+            <RadioButton
+                android:id="@+id/radio_male"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onRadioButtonClicked"
+                android:text="YES"
+                android:textColor="@color/colorPrimary"
+                android:textColorHighlight="@color/colorPrimary"
+                android:textSize="55dp" />
+            android:text="YES" />
+
+            <RadioButton
+                android:id="@+id/radio_female"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onRadioButtonClicked"
+                android:text="NO"
+                android:textColor="@color/colorPrimary"
+                android:textSize="55dp" />
+            android:text="NO" />
+
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/btn_login"
+            android:backgroundTint="@color/colorAccent"
+            android:outlineAmbientShadowColor="@color/purple"
+            android:text="SUBMIT"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="65dp" />
+
+    </LinearLayout>
+</RelativeLayout>
