@@ -21,19 +21,19 @@ In future we will be involving an healthy ecosystem which involves both conserva
 ### Snapshots
 
 <div align="left">
-    <img src="Images/Screenshot_20200216-035224_MOUT7.jpg" alt="SS1" width="200px" hspace="15px"/>
-    <img src="Images/Screenshot_20200216-035228_MOUT7.jpg" alt="SS2" width="200px" hspace="15px"/>
-    <img src="Images/Screenshot_20200216-035305_MOUT7.jpg" alt="SS3" width="200px" hspace="15px"/>
-    <img src="Images/Screenshot_20200216-035341_MOUT7.jpg" alt="SS4" width="200px" hspace="15px"/>
+    <img src="Images/Screenshot_20200216-035224_MOUT7.jpg" alt="SS1" width="180px" hspace="4px"/>
+    <img src="Images/Screenshot_20200216-035228_MOUT7.jpg" alt="SS2" width="180px" hspace="4px"/>
+    <img src="Images/Screenshot_20200216-035305_MOUT7.jpg" alt="SS3" width="180px" hspace="4px"/>
+    <img src="Images/Screenshot_20200216-035341_MOUT7.jpg" alt="SS4" width="180px" hspace="4px"/>
 </div>
 
 </br>
 
 <div align="left">
-    <img src="Images/Screenshot_20200216-035344_MOUT7.jpg" alt="SS1" width="200px" hspace="15px"/>
-    <img src="Images/Screenshot_20200216-042958_MOUT7.jpg" alt="SS2" width="200px" hspace="15px"/>
-    <img src="Images/Screenshot_20200216-045036_MOUT7.jpg" alt="SS3" width="200px" hspace="15px"/>
-    <img src="Images/Screenshot_20200216-045039_MOUT7.jpg" alt="SS4" width="200px" hspace="15px"/>
+    <img src="Images/Screenshot_20200216-035344_MOUT7.jpg" alt="SS1" width="180px" hspace="4px"/>
+    <img src="Images/Screenshot_20200216-042958_MOUT7.jpg" alt="SS2" width="180px" hspace="4px"/>
+    <img src="Images/Screenshot_20200216-045036_MOUT7.jpg" alt="SS3" width="180px" hspace="4px"/>
+    <img src="Images/Screenshot_20200216-045039_MOUT7.jpg" alt="SS4" width="180px" hspace="4px"/>
 </div>
 
 ### Made at:
